@@ -1,0 +1,38 @@
+[
+  {
+    "file": "rt-150.jpg",
+    "size": "360x640",
+    "class": 0,
+    "student_box": [
+      0.24,
+      243.06,
+      35.4,
+      350.98
+    ],
+    "repo_annotation": [
+      0,
+      247,
+      31,
+      344
+    ],
+    "iou_student_vs_repo": 0.7815
+  },
+  {
+    "file": "plos02-055.jpg",
+    "size": "1920x1080",
+    "class": 0,
+    "student_box": [
+      1080.7,
+      573.66,
+      1156.31,
+      646.98
+    ],
+    "repo_annotation": [
+      1072,
+      563,
+      1141,
+      632
+    ],
+    "iou_student_vs_repo": 0.5183
+  }
+]

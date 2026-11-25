@@ -1,0 +1,21 @@
+{
+  "weights": "/home/QYQ/work/rt-basketball-detection-lab/yolo11n.pt",
+  "device": "cpu",
+  "imgsz": 640,
+  "conf": 0.25,
+  "class_name": "sports ball",
+  "class_index": 32,
+  "image": "/home/QYQ/work/rt-basketball-detection-lab/dataset-curated/images/val/rt-100.jpg",
+  "boxes": [
+    {
+      "bbox_xyxy": [
+        139.4056,
+        390.4785,
+        260.4737,
+        516.7356
+      ],
+      "confidence": 0.512907
+    }
+  ],
+  "rerun": "./.venv/bin/python submission/task01/detect_cases.py"
+}

@@ -1,0 +1,34 @@
+{
+  "image": "/home/QYQ/work/rt-basketball-detection-lab/dataset-curated/images/val/rt-225.jpg",
+  "conf": 0.1,
+  "any_side_empty": false,
+  "original": {
+    "empty": false,
+    "center_xy": [
+      78.69,
+      210.83
+    ],
+    "confidence": 0.251331,
+    "bbox_xyxy": [
+      24.3878,
+      156.2118,
+      132.9986,
+      265.4462
+    ]
+  },
+  "flipped": {
+    "empty": false,
+    "center_xy": [
+      281.92,
+      211.28
+    ],
+    "confidence": 0.280921,
+    "bbox_xyxy": [
+      227.5477,
+      156.484,
+      336.283,
+      266.0834
+    ]
+  },
+  "note": "检测为空的一侧 center_xy 为 null（empty=true）"
+}
